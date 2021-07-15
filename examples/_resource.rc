@@ -1,0 +1,7 @@
+#include <windows.h>
+#include <amanita/Resource.h>
+#include "_resource.h"
+
+AMANITA_ICON		ICON		AMANITA_APP_ICON
+AMANITA_ICONS		BITMAP	AMANITA_STOCK_ICONS
+
